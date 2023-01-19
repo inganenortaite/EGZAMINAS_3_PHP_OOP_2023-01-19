@@ -20,7 +20,7 @@ https://www.php.net/manual/en/function.rand.php [0.5 balo]
 Intern.php turi extendinti Employee klasę ir viskas: [0.25 balo]
 
 Manager.php turi extendinti Employee klasę: [1 balas]
-- constantos EMPLOYEE_TYPE reksme turi būti 2.
+- constantos EMPLOYEE_TYPE reikšmė turi būti 2.
 - papildomas propertis owertimeHours
 - construktorius turi priimti dar papildomai owertimeHours, nepamirškite extendinti ir parent construktoriaus;
 - Perrašykite calculateSalary() funkciją. Suskaičiuokite atlyginima: salary + (salary / 40 *  owertimeHours) * 2;

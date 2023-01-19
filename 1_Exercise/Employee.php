@@ -49,6 +49,4 @@ class Employee
     {
         return "Darbuotojo tipas " . static::EMPLOYEE_TYPE;
     }
-
-
 }
