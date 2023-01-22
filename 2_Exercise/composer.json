@@ -1,0 +1,15 @@
+{
+    "name": "admin/2_exercise",
+    "autoload": {
+        "psr-4": {
+            "Exercise2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "inga nenortaite",
+            "email": "inga.nenortaite@gmail.com"
+        }
+    ],
+    "require": {}
+}
